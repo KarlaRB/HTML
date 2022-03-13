@@ -1,0 +1,50 @@
+body {
+    font-family: fantasy;
+}
+body {
+    background-color:rgba(201, 180, 209, 0.986);
+}
+
+.encabezado {
+    font-size:larger;
+    font-weight:900;
+    font-family: cursive;
+    text-align: center;
+}
+
+.imagenes {
+    text-align: center;
+}
+
+.boton {
+    text-align: center;
+}
+
+.contacto {
+    font-size: small;
+}
+
+.botonpastelero {
+    text-align: right;
+}
+table {
+    width: 50%;
+    border: 1px solid #000;
+ }
+ th, td {
+    width: 25%;
+    text-align: center;
+    vertical-align: top;
+    border: 1px solid #000;
+    border-collapse: collapse;
+    padding: 0.3em;
+    caption-side: bottom;
+    background-color: rgb(203, 199, 238);
+ }
+ caption {
+    padding: 0.3em;
+ }
+
+ th {
+    background:rgb(144, 139, 189);
+ }
